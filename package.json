@@ -1,0 +1,24 @@
+{
+  "name": "ev-charging-slot-billing-system",
+  "version": "1.0.0",
+  "description": "Complete EV Charging Slot and Billing Management System (College Relational DBMS Project)",
+  "scripts": {
+    "init-db": "cd backend && npm run init-db",
+    "test-backend": "cd backend && npm test",
+    "start-backend": "cd backend && npm start",
+    "start-frontend": "cd frontend && npm run dev",
+    "build-frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "ev-charging",
+    "dbms",
+    "mysql",
+    "express",
+    "react",
+    "concurrency-control",
+    "row-level-locking",
+    "stored-procedures"
+  ],
+  "author": "Yugandhar",
+  "license": "ISC"
+}
